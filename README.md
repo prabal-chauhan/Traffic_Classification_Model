@@ -12,6 +12,8 @@ Classification works in three basic steps:
 2.  Design and build the CNN network.
 
 3.  Train the model and verify on test / real-life data.
+
+Check-Out 'http://scs.ryerson.ca/~aharley/vis/conv/flat.html' for Classifying Hand-Written numbers using CNN.
 ```
 ### Traffic signs-Classification:
 
